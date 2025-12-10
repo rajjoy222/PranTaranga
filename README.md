@@ -1,14 +1,14 @@
-# PranTaranga
-PranTarang Accounting System - React + Member Dashboard
+# FastHold savings Fund 
+FastHold savings Accounting System - React + Member Dashboard
 <!DOCTYPE html>
 <html>
 <head>
-<title>PranTarang Accounting System</title>
+<title>FastHold  Accounting System</title>
 <meta charset="UTF-8">
 </head>
 <body style="font-family: Arial">
 
-<h1>PranTarang Accounting System</h1>
+<h1> FastHold Accounting System</h1>
 
 <h3>Admin Login</h3>
 <p>ID: admin | Pass: admin123</p>
